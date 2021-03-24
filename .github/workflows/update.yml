@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  schedule:
+    - cron:  '17 2 * * 1'
+  push:
+    branches:
+      - main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          user: hrueger
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_order: base.header, base.activity+community, isocalendar, base.repositories, languages, topics
+          config_timezone: Europe/Berlin
+          plugin_followup: yes
+          # plugin_habits: yes
+          # plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_lines: yes
+          # plugin_pagespeed: yes
+          # plugin_pagespeed_detailed: yes
+          # plugin_pagespeed_screenshot: yes
+          plugin_topics: yes
+          plugin_topics_mode: "mastered"
+          plugin_traffic: yes
