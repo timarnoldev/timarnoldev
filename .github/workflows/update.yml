@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule:
-    - cron:  '17 2 * * 1'
+  #schedule:
+  #  - cron:  '17 2 * * 1'
   push:
     branches:
       - main
