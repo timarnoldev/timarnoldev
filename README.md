@@ -4,7 +4,7 @@
 
  
 Hello there! I'm currently working on:
-- [**Rekari**](https://rekari.de): A system to resuce fawns easier (website in German)
+- [**Rekari**](https://rekari.de): A system to resuce fawns easier (website in German). If you want to know any additional details, feel free to contact me.
 
 
 
