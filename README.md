@@ -11,6 +11,7 @@ Hello there! I'm currently working on:
 
 Some of my other projects:
 - [**EKES**](https://github.com/ft-KI/EKES): EKES is an evolution simulation with a web frontend and a java backend. Powered by our self made neural network java framework
+- [**FT-Cloud**](https://github.com/ft-cloud/): A private smart home cloud written with express and mongodb
 - [**Interitus**](https://github.com/ft-interitus/interitus): A graphical programming interface for beginners and advanceds
 - [**FingerRise**](https://github.com/coder246/fingerrise): A game which uses multi-touch to controll two circles
 - [**LED matrix**](https://github.com/ledtisch): Games and software for a custom made led matrix
