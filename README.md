@@ -13,7 +13,7 @@ Some of my other projects:
 - [**EKES**](https://github.com/ft-KI/EKES): EKES is an evolution simulation with a web frontend and a java backend. Powered by our self made neural network java framework
 - [**FT-Cloud**](https://github.com/ft-cloud/): A private smart home cloud written with express and mongodb
 - [**Interitus**](https://github.com/ft-interitus/interitus): A graphical programming interface for beginners and advanceds
-- [**FingerRise**](https://github.com/coder246/fingerrise): A game which uses multi-touch to controll two circles
+- [**FingerRise**](https://github.com/timarnoldev/fingerrise): A game which uses multi-touch to controll two circles
 - [**LED matrix**](https://github.com/ledtisch): Games and software for a custom made led matrix
 - [**Experiments**](https://github.com/ft-experiments): Some smaller projects and experiments
 
@@ -45,6 +45,6 @@ Some of my other projects:
 </p>
 
 ---
- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=coder246&count_private=true&show_icons=true&hide_border=true&bg_color=000000&text_color=c0c0c0" />
+ <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=timarnoldev&count_private=true&show_icons=true&hide_border=true&bg_color=000000&text_color=c0c0c0" />
  
   <img align="center" height="195px" src="http://github-readme-streak-stats.herokuapp.com/?user=coder246&theme=dark&background=000000" />
