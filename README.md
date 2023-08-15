@@ -45,6 +45,8 @@ Some of my other projects:
 </p>
 
 ---
- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=coder246&count_private=true&show_icons=true&hide_border=true&bg_color=000000&text_color=c0c0c0" />
+
+<!-- 
+ <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=coder246&count_private=true&show_icons=true&hide_border=true&bg_color=000000&text_color=c0c0c0" /> -->
  
   <img align="center" height="195px" src="http://github-readme-streak-stats.herokuapp.com/?user=coder246&theme=dark&background=000000" />
