@@ -16,7 +16,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
-          user: coder246
+          user: timarnoldev
           template: classic
           base: header, activity, community, repositories, metadata
           config_order: base.header, base.activity+community, isocalendar, base.repositories, languages, topics
