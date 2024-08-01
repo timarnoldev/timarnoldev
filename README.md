@@ -1,9 +1,17 @@
 
 ### Hello there 👋
 
-I'm currently working on:
-- [**Football Table Robot**](https://fussball.arnold-tim.de): An AI foosball robot (website in German).
+---
+
+#### 🎉 Award winning project [**Rekari**](https://rekari.de) 🎉
+
+My project recieved the [award]([https://rekari.de](https://www.jugend-forscht.de/projektdatenbank/rekari-intuitive-plattform-fuer-verschiedenartige-drohneneinsaetze.html)) for the best youth research project of the year in the categorie of technologie.
+
+---
+
+**I'm currently working on:**
 - [**Rekari**](https://rekari.de): A system to resuce fawns easier (website in German). If you want to know any additional details, feel free to contact me.
+- [**Football Table Robot**](https://fussball.arnold-tim.de): An AI foosball robot (website in German).
 
 
 
