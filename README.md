@@ -17,7 +17,7 @@ My project recieved the [award]([https://rekari.de](https://www.jugend-forscht.d
 
 
 Some of my other projects:
-- [**EKES**](https://github.com/ft-KI/EKES): EKES is an evolution simulation with a web frontend and a java backend. Powered by our self made neural network java framework
+- [**EKES**](https://ekes.tim-arnold.de): EKES is an evolution simulation with a web frontend and a custom build analytics framwork.
 - [**Cloud System**](https://github.com/ft-cloud/): A private smart home cloud written with express and mongodb
 - [**Interitus**](https://github.com/ft-interitus/interitus): A graphical programming interface for beginners and advanceds
 - [**FingerRise**](https://github.com/timarnoldev/fingerrise): A game which uses multi-touch to controll two circles
