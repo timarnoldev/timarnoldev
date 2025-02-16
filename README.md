@@ -1,6 +1,8 @@
 
 ### Hello there 👋
 
+Checkout my personal portfolio: [tim-arnold.de](https://tim-arnold.de)
+
 ---
 
 #### 🎉 Award winning project [**Rekari**](https://rekari.de) 🎉
