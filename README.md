@@ -1,7 +1,7 @@
 
-### Hello there 👋
+# Hello there 👋
 
-Checkout my personal portfolio: [tim-arnold.de](https://tim-arnold.de)
+#### Checkout my personal portfolio: [tim-arnold.de](https://tim-arnold.de)
 
 ---
 
