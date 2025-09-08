@@ -20,6 +20,7 @@ My project recieved the [award]([https://rekari.de](https://www.jugend-forscht.d
 
 Some of my other projects:
 - [**EKES**](https://ekes.tim-arnold.de): EKES is an evolution simulation with a web frontend and a custom build analytics framwork.
+- [**Industrial Robot Arm Application**](https://github.com/WRI-Obernburg/connect4rv6l): A physical connect4 game played against an robot arm powered by ai.
 - [**Source Code for my personal website**](https://github.com/timarnoldev/personalwebsite): Code for my personal website written in NextJS
 - [**Cloud System**](https://github.com/ft-cloud/): A private smart home cloud written with express and mongodb
 - [**Interitus**](https://github.com/ft-interitus/interitus): A graphical programming interface for beginners and advanceds
