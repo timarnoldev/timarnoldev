@@ -12,8 +12,8 @@ My project recieved the [award]([https://rekari.de](https://www.jugend-forscht.d
 ---
 
 **I'm currently working on:**
-- [**Rekari**](https://rekari.de): A system to resuce fawns easier (website in German). If you want to know any additional details, feel free to contact me.
-- [**Football Table Robot**](https://fussball.arnold-tim.de): An AI foosball robot (website in German).
+- [**Rekari**](https://rekari.de): A system to organize geobound data collection collaboratively with drone communication. If you want to know any additional details, feel free to contact me.
+- [**Football Table Robot**](https://fussball.arnold-tim.de): An physical foosball robot played against an realtime AI
 
 
 
