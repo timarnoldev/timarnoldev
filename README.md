@@ -13,7 +13,7 @@ My project recieved the [award]([https://rekari.de](https://www.jugend-forscht.d
 
 **I'm currently working on:**
 - [**Rekari**](https://rekari.de): A system to organize geobound data collection collaboratively with drone communication. If you want to know any additional details, feel free to contact me.
-- [**Football Table Robot**](https://fussball.arnold-tim.de): An physical foosball robot played against an realtime AI
+- [**Football Table Robot**](https://tim-arnold.de/docs/aifootball): An physical foosball robot played against an realtime AI
 
 
 
